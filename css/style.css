@@ -1,0 +1,14 @@
+.navbar {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.jumbotron {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.col-6 {
+    border: 3px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150p;
+}
